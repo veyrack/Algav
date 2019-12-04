@@ -233,7 +233,8 @@ public class DefaultTeam {
 		  }
 	  }
 	  
-	  System.out.println("[filtre] len Point : " + points.size());
+	  System.out.println("test[filtre] len Point : " + points.size());
 	  return points ;
+	  
   }
 }
