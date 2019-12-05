@@ -237,4 +237,15 @@ public class DefaultTeam {
 	  return points ;
 	  
   }
+  
+  public ArrayList<Point> toussaint (ArrayList<Point> points){
+	  //Si il n'y a pas 4 points -> impossible
+	  if (points.size()<4)
+		  return null;
+	  
+	  
+	  
+	  return null;
+  }
+  
 }
