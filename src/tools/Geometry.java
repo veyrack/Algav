@@ -1,6 +1,7 @@
 package tools;
 
 import java.awt.Point;
+import java.util.ArrayList;
 
 
 public class Geometry {
@@ -33,5 +34,18 @@ public class Geometry {
 	  public static double getCos(Line l1,Line l2) {
 		  double res = l1.vector.prodSca(l2.vector)/(l1.vector.norme()*l2.vector.norme());
 		  return Math.acos(res);
+	  }
+	  
+	  public static double convexeAire(ArrayList<Point> points) {
+		  int i = 0;
+		  int d,g=d=0;
+		  if(points.size()<3)return -1;
+		  do {
+			  g += points.get(i).x*points.get((i+1)%points.size()).y;
+			  d += points.get((i+1)%points.size()).x*points.get(i).y;
+			  i = (i+1)%points.size();
+		  } while(i!=0);
+		  return 0.5*(g-d);
+		  
 	  }
 }

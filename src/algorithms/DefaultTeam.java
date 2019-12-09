@@ -72,7 +72,7 @@ public class DefaultTeam {
     return new Circle(center,radius);
   }
   
-  public ArrayList<Point> enveloppeConvexe(ArrayList<Point> points){
+  public static ArrayList<Point> enveloppeConvexe(ArrayList<Point> points){
 /*	  
 	  points.removeAll(points);
 	  
@@ -110,7 +110,7 @@ public class DefaultTeam {
   
   // enveloppeConvexe: ArrayList<Point> --> ArrayList<Point>
   //   renvoie l'enveloppe convexe de la liste.
-  public ArrayList<Point> enveloppeConvexeJarvis(ArrayList<Point> points){
+  public static ArrayList<Point> enveloppeConvexeJarvis(ArrayList<Point> points){
 	  ArrayList<Point> enveloppe = new ArrayList<>();
 	  points=filterPointsAlignes(points);
 	  Point p=points.get(0);
@@ -147,7 +147,7 @@ public class DefaultTeam {
 		  p = q;
 	  } while(!p.equals(first));
 	  
-	  System.out.println("[Jarvis] OUT : " + enveloppe.size());
+	  //System.out.println("[Jarvis] OUT : " + enveloppe.size());
 	  return enveloppe;
   }
   
@@ -197,8 +197,8 @@ public class DefaultTeam {
   }
 
   
-  public ArrayList<Point> filterPointsAlignes(ArrayList<Point> points){
-	  System.out.println("filtrerPointsAlignes");
+  public static ArrayList<Point> filterPointsAlignes(ArrayList<Point> points){
+	  //System.out.println("filtrerPointsAlignes");
 	  ArrayList<Point> tmp = new ArrayList<Point>();
 	  
 	  for(int i  = 0; i < points.size(); i++){
@@ -259,19 +259,19 @@ public class DefaultTeam {
 		  }
 	  }
 	  
-	  System.out.println("[filtre] len Point : " + points.size());
+	  //System.out.println("[filtre] len Point : " + points.size());
 	  return points ;
 	  
   }
  
-  public Rectangle toussaint (ArrayList<Point> points){
+  public static Rectangle toussaint (ArrayList<Point> points){
 	  //points=enveloppeConvexeJarvis(points);
 	  //Si il n'y a pas 4 points -> impossible
 	  if (points.size()<4)
 		  return null;
-	  for(Point tmp : points) {
+	  /*for(Point tmp : points) {
 		  System.out.println("ENV"+tmp.toString());
-	  }
+	  }*/
 	  
 	  // p_i; p_j; p_k; p_l -> abs min; ord min; abs max; ord max
 	  int p_i = 0, p_j = 0, p_k = 0, p_l = 0;
@@ -302,10 +302,10 @@ public class DefaultTeam {
 	  Line d_j = new Line(points.get(p_j), new Vector(1,0));
 	  Line d_k = new Line(points.get(p_k), new Vector(0,-1));
 	  Line d_l = new Line(points.get(p_l), new Vector(-1,0));
-	  System.out.println(d_i.toString());
+	  /*System.out.println(d_i.toString());
 	  System.out.println(d_j.toString());
 	  System.out.println(d_k.toString());
-	  System.out.println(d_l.toString());
+	  System.out.println(d_l.toString());*/
 	  
 	  boolean finished=false;
 	  double theta_max;
@@ -316,10 +316,11 @@ public class DefaultTeam {
 	  
 	  Rectangle res = new Rectangle(d_i,d_j,d_k,d_l);
 	  Rectangle rect=res;
+	  /*
 	  System.out.println(points.get(p_i).toString());
 	  System.out.println(points.get(p_j).toString());
 	  System.out.println(points.get(p_k).toString());
-	  System.out.println(points.get(p_l).toString());
+	  System.out.println(points.get(p_l).toString());*/
 	  double min_aire = res.aire();
 	  
 	  while(!finished) {
@@ -347,7 +348,7 @@ public class DefaultTeam {
 			  theta_max = theta_l;
 			  index_max = p_l;
 		  }
-		  System.out.println(theta_i);
+		  /*System.out.println(theta_i);
 		  System.out.println(theta_j);
 		  System.out.println(theta_k);
 		  System.out.println(theta_l);
@@ -357,7 +358,7 @@ public class DefaultTeam {
 		  System.out.println(p_j);
 		  System.out.println(p_k);
 		  System.out.println(p_l);
-		  System.out.println(index_max);
+		  System.out.println(index_max);*/
 		  if(index_max == p_i) {
 			  
 			  d_i = new Line(points.get(p_i),points.get((p_i+1)%points.size()));
@@ -367,13 +368,8 @@ public class DefaultTeam {
 			  //p_i = (p_i+1)%points.size();
 			  //d_i.point = points.get(p_i);
 			  bool_i = true;
-			  System.out.println("ROTA I");
+			  //System.out.println("ROTA I");
 		  } else if (index_max == p_j) {		
-			  System.out.println("before");
-			  System.out.println(d_i.toString());
-			  System.out.println(d_j.toString());
-			  System.out.println(d_k.toString());
-			  System.out.println(d_l.toString());
 			  d_j = new Line(points.get(p_j),points.get((p_j+1)%points.size()));
 			  d_k = new Line(points.get(p_k),d_j.vector.normal());
 			  d_l = new Line(points.get(p_l),d_j.vector.invert());
@@ -382,7 +378,7 @@ public class DefaultTeam {
 			  //p_j = (p_j+1)%points.size();
 			  //d_j.point = points.get(p_j);
 			  bool_j = true;
-			  System.out.println("ROTA J");
+			  //System.out.println("ROTA J");
 		  } else if (index_max == p_k) {			  
 			  
 			  d_k = new Line(points.get(p_k),points.get((p_k+1)%points.size()));
@@ -393,7 +389,7 @@ public class DefaultTeam {
 			  //p_k = (p_k+1)%points.size();
 			  //d_k.point = points.get(p_k);
 			  bool_k = true;
-			  System.out.println("ROTA K");
+			  //System.out.println("ROTA K");
 		  } else {
 			  
 			  d_l = new Line(points.get(p_l),points.get((p_l+1)%points.size()));
@@ -404,21 +400,16 @@ public class DefaultTeam {
 			  //p_l = (p_l+1)%points.size();
 			  //d_l.point = points.get(p_l);
 			  bool_l = true;
-			  System.out.println("ROTA L");
+			  //System.out.println("ROTA L");
 		  }
-		  System.out.println("After");
-		  System.out.println(d_i.toString());
-		  System.out.println(d_j.toString());
-		  System.out.println(d_k.toString());
-		  System.out.println(d_l.toString());
 		  
 		  rect = new Rectangle(d_i,d_j,d_k,d_l); 
 		  if (rect.isInRect(points)) {
 			  
 		  
 			  double tmp = rect.aire();
-			  System.out.println("AIRE de l'ancien "+ min_aire);
-			  System.out.println("AIRE du new "+ tmp);
+			  //System.out.println("AIRE de l'ancien "+ min_aire);
+			  //System.out.println("AIRE du new "+ tmp);
 			  if(tmp < min_aire) {
 				  res = rect;
 				  min_aire = tmp;
