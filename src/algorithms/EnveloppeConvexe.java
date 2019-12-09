@@ -29,8 +29,7 @@ public class EnveloppeConvexe {
 	 */
 	public static ArrayList<Point.Double> graham(ArrayList<Point.Double> points) {
 		// Copie du nuage de points, pour préserver la liste originale
-		ArrayList<Point.Double> enveloppe = (ArrayList<Point.Double>) points
-				.clone();
+		ArrayList<Point.Double> enveloppe = (ArrayList<Point.Double>) points.clone();
 		// Parcours de la liste.
 		for (int i = 0; i < enveloppe.size(); i++) {
 			// Trois points du nuage de points.

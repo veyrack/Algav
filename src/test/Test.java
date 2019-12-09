@@ -25,7 +25,6 @@ public class Test {
             if (f.isDirectory()) {
                 search(pattern, f, result);
             }
-
             if (f.isFile()) {
                 if (f.getName().matches(pattern)) {
                     result.add(f.getAbsolutePath());
@@ -49,8 +48,6 @@ public class Test {
     		BufferedReader br;
     		try {
     			br = new BufferedReader(new FileReader(file));
-    			
-    			  
     			String st;
     			List<String> l= new ArrayList<>();
     			while ((st = br.readLine()) != null) {

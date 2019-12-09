@@ -265,13 +265,11 @@ public class DefaultTeam {
   }
  
   public static Rectangle toussaint (ArrayList<Point> points){
-	  //points=enveloppeConvexeJarvis(points);
+	  points=enveloppeConvexeJarvis(points);//on recupere l'enveloppe convexe
 	  //Si il n'y a pas 4 points -> impossible
 	  if (points.size()<4)
 		  return null;
-	  /*for(Point tmp : points) {
-		  System.out.println("ENV"+tmp.toString());
-	  }*/
+	  
 	  
 	  // p_i; p_j; p_k; p_l -> abs min; ord min; abs max; ord max
 	  int p_i = 0, p_j = 0, p_k = 0, p_l = 0;
@@ -291,11 +289,6 @@ public class DefaultTeam {
 	        p_j = i;
 	      }
 	  }
-	  //save les points de base
-	  int init_i = p_i;
-	  int init_j = p_j;
-	  int init_k = p_k;
-	  int init_l = p_l;
 	  
 	  //les droites associees
 	  Line d_i = new Line(points.get(p_i), new Vector(0,1));
@@ -310,9 +303,6 @@ public class DefaultTeam {
 	  boolean finished=false;
 	  double theta_max;
 	  int index_max;
-	  boolean bool_i = false,bool_j = false,bool_k = false,bool_l = false;
-	  
-	  int cpt=0;
 	  
 	  Rectangle res = new Rectangle(d_i,d_j,d_k,d_l);
 	  Rectangle rect=res;
@@ -325,12 +315,13 @@ public class DefaultTeam {
 	  
 	  while(!finished) {
 	  //for(int a=0;a<2;a++) {
-		  //ang theta, l'angle avec la droite qui contient le point suivant
+		  
+		  //theta, l'angle avec la droite qui contient le point suivant
 		  double theta_i = Geometry.getCos(d_i, new Line(points.get(p_i),points.get((p_i+1)%points.size())));
 		  double theta_j = Geometry.getCos(d_j, new Line(points.get(p_j),points.get((p_j+1)%points.size())));
 		  double theta_k = Geometry.getCos(d_k, new Line(points.get(p_k),points.get((p_k+1)%points.size())));
 		  double theta_l = Geometry.getCos(d_l, new Line(points.get(p_l),points.get((p_l+1)%points.size())));
-		  //recuperation du plus petit thetale donc le plus gros theta theta
+		  //recuperation du plus petit angle
 		  if(theta_i<theta_j) {
 			  theta_max = theta_i;
 			  index_max = p_i;
@@ -365,9 +356,6 @@ public class DefaultTeam {
 			  d_j = new Line(points.get(p_j),d_i.vector.normal());
 			  d_k = new Line(points.get(p_k),d_i.vector.invert());
 			  d_l = new Line(points.get(p_l),d_j.vector.invert());
-			  //p_i = (p_i+1)%points.size();
-			  //d_i.point = points.get(p_i);
-			  bool_i = true;
 			  //System.out.println("ROTA I");
 		  } else if (index_max == p_j) {		
 			  d_j = new Line(points.get(p_j),points.get((p_j+1)%points.size()));
@@ -375,9 +363,6 @@ public class DefaultTeam {
 			  d_l = new Line(points.get(p_l),d_j.vector.invert());
 			  d_i = new Line(points.get(p_i),d_k.vector.invert());
 			  
-			  //p_j = (p_j+1)%points.size();
-			  //d_j.point = points.get(p_j);
-			  bool_j = true;
 			  //System.out.println("ROTA J");
 		  } else if (index_max == p_k) {			  
 			  
@@ -386,9 +371,6 @@ public class DefaultTeam {
 			  d_i = new Line(points.get(p_i),d_k.vector.invert());
 			  d_j = new Line(points.get(p_j),d_l.vector.invert());
 			  
-			  //p_k = (p_k+1)%points.size();
-			  //d_k.point = points.get(p_k);
-			  bool_k = true;
 			  //System.out.println("ROTA K");
 		  } else {
 			  
@@ -397,16 +379,13 @@ public class DefaultTeam {
 			  d_j = new Line(points.get(p_j),d_l.vector.invert());
 			  d_k = new Line(points.get(p_k),d_i.vector.invert());
 			  
-			  //p_l = (p_l+1)%points.size();
-			  //d_l.point = points.get(p_l);
-			  bool_l = true;
 			  //System.out.println("ROTA L");
 		  }
 		  
 		  rect = new Rectangle(d_i,d_j,d_k,d_l); 
+
+		  //check pour l'arret
 		  if (rect.isInRect(points)) {
-			  
-		  
 			  double tmp = rect.aire();
 			  //System.out.println("AIRE de l'ancien "+ min_aire);
 			  //System.out.println("AIRE du new "+ tmp);
@@ -418,9 +397,6 @@ public class DefaultTeam {
 		  }
 		  else 
 			  finished=true; 
-		  
-		  //check pour l'arret
-		  
 		  
 		  
 	    
