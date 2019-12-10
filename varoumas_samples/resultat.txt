@@ -6650,3 +6650,2227 @@ Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-999
 Aire du rectangle = 158006.0
 Aire de l'enveloppe convexe = 124706.0
 Qualité : 0.2670280499735378
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-10.points
+Aire du rectangle = 147452.0
+Aire de l'enveloppe convexe = 110336.5
+Qualité : 0.33638460527567937
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-100.points
+Aire du rectangle = 151312.0
+Aire de l'enveloppe convexe = 115259.0
+Qualité : 0.31279986812309657
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1000.points
+Aire du rectangle = 152096.0
+Aire de l'enveloppe convexe = 117067.5
+Qualité : 0.2992162641211267
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1001.points
+Aire du rectangle = 152096.0
+Aire de l'enveloppe convexe = 118316.0
+Qualité : 0.28550660941884454
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1002.points
+Aire du rectangle = 152872.0
+Aire de l'enveloppe convexe = 118894.0
+Qualité : 0.28578397564216873
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1003.points
+Aire du rectangle = 153266.0
+Aire de l'enveloppe convexe = 119730.5
+Qualité : 0.2800915389144787
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1004.points
+Aire du rectangle = 153266.0
+Aire de l'enveloppe convexe = 120388.5
+Qualité : 0.273095021534449
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1005.points
+Aire du rectangle = 153660.0
+Aire de l'enveloppe convexe = 120596.5
+Qualité : 0.2741663315270344
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1006.points
+Aire du rectangle = 154054.0
+Aire de l'enveloppe convexe = 120892.0
+Qualité : 0.2743109552327698
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1007.points
+Aire du rectangle = 154054.0
+Aire de l'enveloppe convexe = 120919.5
+Qualité : 0.274021146299811
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1008.points
+Aire du rectangle = 154054.0
+Aire de l'enveloppe convexe = 121064.5
+Qualité : 0.27249524014058624
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1009.points
+Aire du rectangle = 154054.0
+Aire de l'enveloppe convexe = 121089.5
+Qualité : 0.27223252222529615
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-101.points
+Aire du rectangle = 154054.0
+Aire de l'enveloppe convexe = 121144.0
+Qualité : 0.27166017301723566
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1010.points
+Aire du rectangle = 154054.0
+Aire de l'enveloppe convexe = 121211.5
+Qualité : 0.27095201362906995
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1011.points
+Aire du rectangle = 154054.0
+Aire de l'enveloppe convexe = 121529.5
+Qualité : 0.2676263787804607
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1012.points
+Aire du rectangle = 154054.0
+Aire de l'enveloppe convexe = 121574.5
+Qualité : 0.26715717523000304
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1013.points
+Aire du rectangle = 154445.0
+Aire de l'enveloppe convexe = 121625.0
+Qualité : 0.26984583761562186
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1014.points
+Aire du rectangle = 154445.0
+Aire de l'enveloppe convexe = 121700.5
+Qualité : 0.2690580564582725
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1015.points
+Aire du rectangle = 154445.0
+Aire de l'enveloppe convexe = 121731.5
+Qualité : 0.2687348796326341
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1016.points
+Aire du rectangle = 154840.0
+Aire de l'enveloppe convexe = 121849.5
+Qualité : 0.2707479308491212
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1017.points
+Aire du rectangle = 154840.0
+Aire de l'enveloppe convexe = 121995.0
+Qualité : 0.26923234558793396
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1018.points
+Aire du rectangle = 155630.0
+Aire de l'enveloppe convexe = 122217.5
+Qualité : 0.2733855626240105
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1019.points
+Aire du rectangle = 156024.0
+Aire de l'enveloppe convexe = 122575.0
+Qualité : 0.2728859881705079
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-102.points
+Aire du rectangle = 156024.0
+Aire de l'enveloppe convexe = 122631.5
+Qualité : 0.27229953152330366
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1020.points
+Aire du rectangle = 156024.0
+Aire de l'enveloppe convexe = 122836.5
+Qualité : 0.2701762098399092
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1021.points
+Aire du rectangle = 156024.0
+Aire de l'enveloppe convexe = 122993.0
+Qualité : 0.26855999934955643
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1022.points
+Aire du rectangle = 156024.0
+Aire de l'enveloppe convexe = 123100.5
+Qualité : 0.2674522036872311
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1023.points
+Aire du rectangle = 156024.0
+Aire de l'enveloppe convexe = 123153.0
+Qualité : 0.2669118900879395
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1024.points
+Aire du rectangle = 156024.0
+Aire de l'enveloppe convexe = 123153.0
+Qualité : 0.2669118900879395
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1025.points
+Aire du rectangle = 156420.0
+Aire de l'enveloppe convexe = 123181.0
+Qualité : 0.2698386926555232
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1026.points
+Aire du rectangle = 156420.0
+Aire de l'enveloppe convexe = 123220.0
+Qualité : 0.2694367797435482
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1027.points
+Aire du rectangle = 156816.0
+Aire de l'enveloppe convexe = 123248.5
+Qualité : 0.27235625585706935
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1028.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123370.0
+Qualité : 0.2743130420685742
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1029.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123390.0
+Qualité : 0.274106491611962
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-103.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123390.0
+Qualité : 0.274106491611962
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1030.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123391.0
+Qualité : 0.27409616584677976
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1031.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123403.0
+Qualité : 0.2739722697179161
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1032.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123469.5
+Qualité : 0.2732861151944408
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1033.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123469.5
+Qualité : 0.2732861151944408
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1034.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123470.0
+Qualité : 0.2732809589373937
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1035.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123518.5
+Qualité : 0.27278100041694153
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1036.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123554.5
+Qualité : 0.2724101509860022
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1037.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123554.5
+Qualité : 0.2724101509860022
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1038.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123554.5
+Qualité : 0.2724101509860022
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1039.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123554.5
+Qualité : 0.2724101509860022
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-104.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123563.5
+Qualité : 0.2723174723927373
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1040.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123616.0
+Qualité : 0.2717771162309086
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1041.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123627.5
+Qualité : 0.27165881377525225
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1042.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123697.5
+Qualité : 0.2709391863214696
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1043.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123708.5
+Qualité : 0.2708261760509585
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1044.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123759.0
+Qualité : 0.27030761399170977
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1045.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123774.0
+Qualité : 0.2701536671675797
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1046.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123818.0
+Qualité : 0.26970230499604253
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1047.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123857.5
+Qualité : 0.2692973780352421
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1048.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123858.0
+Qualité : 0.26929225403284396
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1049.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123858.0
+Qualité : 0.26929225403284396
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-105.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123864.0
+Qualité : 0.26923076923076916
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1050.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123893.0
+Qualité : 0.26893367664032675
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1051.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123896.0
+Qualité : 0.2689029508620133
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1052.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123906.0
+Qualité : 0.26880054234661754
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1053.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123906.0
+Qualité : 0.26880054234661754
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1054.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123912.0
+Qualité : 0.26873910517141186
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1055.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123923.5
+Qualité : 0.26862136721445085
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1056.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123923.5
+Qualité : 0.26862136721445085
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1057.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123960.0
+Qualité : 0.2682478218780251
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1058.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123960.0
+Qualité : 0.2682478218780251
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1059.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123960.0
+Qualité : 0.2682478218780251
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-106.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123967.0
+Qualité : 0.2681762081844361
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1060.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123967.0
+Qualité : 0.2681762081844361
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1061.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 123983.0
+Qualité : 0.268012550107676
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1062.points
+Aire du rectangle = 157212.0
+Aire de l'enveloppe convexe = 124018.5
+Qualité : 0.26764958453779064
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1063.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124062.5
+Qualité : 0.27360000000000007
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1064.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124062.5
+Qualité : 0.27360000000000007
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1065.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124062.5
+Qualité : 0.27360000000000007
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1066.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124075.0
+Qualité : 0.27347169050977227
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1067.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124094.5
+Qualité : 0.2732715793205984
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1068.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124094.5
+Qualité : 0.2732715793205984
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1069.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124094.5
+Qualité : 0.2732715793205984
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-107.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124094.5
+Qualité : 0.2732715793205984
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1070.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124096.5
+Qualité : 0.2732510586519361
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1071.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124096.5
+Qualité : 0.2732510586519361
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1072.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124096.5
+Qualité : 0.2732510586519361
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1073.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124096.5
+Qualité : 0.2732510586519361
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1074.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124098.0
+Qualité : 0.2732356685845059
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1075.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124098.0
+Qualité : 0.2732356685845059
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1076.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124098.0
+Qualité : 0.2732356685845059
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1077.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124109.0
+Qualité : 0.27312281945709005
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1078.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124109.0
+Qualité : 0.27312281945709005
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1079.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124122.5
+Qualité : 0.2729843501379685
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-108.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124122.5
+Qualité : 0.2729843501379685
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1080.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124122.5
+Qualité : 0.2729843501379685
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1081.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124122.5
+Qualité : 0.2729843501379685
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1082.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124128.5
+Qualité : 0.27292281788630324
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1083.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124128.5
+Qualité : 0.27292281788630324
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1084.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124154.5
+Qualité : 0.2726562468537186
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1085.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124154.5
+Qualité : 0.2726562468537186
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1086.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124158.5
+Qualité : 0.2726152458349609
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1087.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124159.0
+Qualité : 0.27261012089337067
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1088.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124159.0
+Qualité : 0.27261012089337067
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1089.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124159.0
+Qualité : 0.27261012089337067
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-109.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124166.5
+Qualité : 0.27253325172248544
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1090.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124180.5
+Qualité : 0.27238978744649933
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1091.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124190.5
+Qualité : 0.272287332766999
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1092.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124190.5
+Qualité : 0.272287332766999
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1093.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124190.5
+Qualité : 0.272287332766999
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1094.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124190.5
+Qualité : 0.272287332766999
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1095.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124190.5
+Qualité : 0.272287332766999
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1096.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124200.0
+Qualité : 0.2721900161030595
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1097.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124205.0
+Qualité : 0.2721388027857172
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1098.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124205.0
+Qualité : 0.2721388027857172
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1099.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124207.0
+Qualité : 0.27211831861328273
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-11.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124207.0
+Qualité : 0.27211831861328273
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-110.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124211.0
+Qualité : 0.2720773522473856
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1100.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124214.0
+Qualité : 0.27204662920443745
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1101.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124215.0
+Qualité : 0.2720363885199051
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1102.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124215.0
+Qualité : 0.2720363885199051
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1103.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124238.0
+Qualité : 0.27180089827588994
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1104.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124238.0
+Qualité : 0.27180089827588994
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1105.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124238.0
+Qualité : 0.27180089827588994
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1106.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124244.5
+Qualité : 0.27173436248687066
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1107.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124245.0
+Qualité : 0.27172924463761117
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1108.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124245.0
+Qualité : 0.27172924463761117
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1109.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124245.0
+Qualité : 0.27172924463761117
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-111.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124250.0
+Qualité : 0.2716780684104627
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1110.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124258.0
+Qualité : 0.27159619501360077
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1111.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124262.5
+Qualité : 0.27155014586057735
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1112.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124266.0
+Qualité : 0.27151433215843435
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1113.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124266.0
+Qualité : 0.27151433215843435
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1114.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124273.0
+Qualité : 0.271442710806048
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1115.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124273.0
+Qualité : 0.271442710806048
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1116.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124275.5
+Qualité : 0.2714171337069655
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1117.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124275.5
+Qualité : 0.2714171337069655
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1118.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124275.5
+Qualité : 0.2714171337069655
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1119.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124275.5
+Qualité : 0.2714171337069655
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-112.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124275.5
+Qualité : 0.2714171337069655
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1120.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124282.5
+Qualité : 0.2713455233037636
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1121.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124282.5
+Qualité : 0.2713455233037636
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1122.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124282.5
+Qualité : 0.2713455233037636
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1123.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124292.0
+Qualité : 0.2712483506581276
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1124.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124298.5
+Qualité : 0.27118187266942084
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1125.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124298.5
+Qualité : 0.27118187266942084
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1126.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124298.5
+Qualité : 0.27118187266942084
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1127.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124298.5
+Qualité : 0.27118187266942084
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1128.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124319.5
+Qualité : 0.2709671451381319
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1129.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124319.5
+Qualité : 0.2709671451381319
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-113.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124323.5
+Qualité : 0.2709262528805898
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1130.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124323.5
+Qualité : 0.2709262528805898
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1131.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124323.5
+Qualité : 0.2709262528805898
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1132.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124323.5
+Qualité : 0.2709262528805898
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1133.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124323.5
+Qualité : 0.2709262528805898
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1134.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124323.5
+Qualité : 0.2709262528805898
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1135.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124323.5
+Qualité : 0.2709262528805898
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1136.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124326.5
+Qualité : 0.2708955854142119
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1137.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124326.5
+Qualité : 0.2708955854142119
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1138.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124346.0
+Qualité : 0.2706962829524069
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1139.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124346.0
+Qualité : 0.2706962829524069
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-114.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124356.5
+Qualité : 0.270588992131493
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1140.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124356.5
+Qualité : 0.270588992131493
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1141.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124356.5
+Qualité : 0.270588992131493
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1142.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124356.5
+Qualité : 0.270588992131493
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1143.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124356.5
+Qualité : 0.270588992131493
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1144.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124356.5
+Qualité : 0.270588992131493
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1145.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124359.5
+Qualité : 0.27055834093897135
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1146.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124359.5
+Qualité : 0.27055834093897135
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1147.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124359.5
+Qualité : 0.27055834093897135
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1148.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124359.5
+Qualité : 0.27055834093897135
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1149.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124388.0
+Qualité : 0.2702672283500016
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-115.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124416.0
+Qualité : 0.2699813528806585
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1150.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124416.0
+Qualité : 0.2699813528806585
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1151.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124418.0
+Qualité : 0.26996093812792354
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1152.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124418.0
+Qualité : 0.26996093812792354
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1153.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124418.0
+Qualité : 0.26996093812792354
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1154.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124418.0
+Qualité : 0.26996093812792354
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1155.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124418.0
+Qualité : 0.26996093812792354
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1156.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124418.0
+Qualité : 0.26996093812792354
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1157.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124418.0
+Qualité : 0.26996093812792354
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1158.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124418.0
+Qualité : 0.26996093812792354
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1159.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124418.0
+Qualité : 0.26996093812792354
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-116.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124425.5
+Qualité : 0.26988438865023645
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1160.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124436.0
+Qualité : 0.2697772348837957
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1161.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124436.0
+Qualité : 0.2697772348837957
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1162.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124439.0
+Qualité : 0.26974662284332074
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1163.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124439.0
+Qualité : 0.26974662284332074
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1164.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124439.0
+Qualité : 0.26974662284332074
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1165.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124439.0
+Qualité : 0.26974662284332074
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1166.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124439.0
+Qualité : 0.26974662284332074
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1167.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124457.0
+Qualité : 0.26956298159203573
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1168.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124457.0
+Qualité : 0.26956298159203573
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1169.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124457.0
+Qualité : 0.26956298159203573
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-117.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124457.0
+Qualité : 0.26956298159203573
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1170.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124459.0
+Qualité : 0.26954258028748423
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1171.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124462.0
+Qualité : 0.26951197956002626
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1172.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124462.0
+Qualité : 0.26951197956002626
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1173.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124464.5
+Qualité : 0.26948648008066556
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1174.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124476.0
+Qualité : 0.26936919566824136
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1175.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124476.0
+Qualité : 0.26936919566824136
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1176.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124476.0
+Qualité : 0.26936919566824136
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1177.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124476.0
+Qualité : 0.26936919566824136
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1178.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124476.0
+Qualité : 0.26936919566824136
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1179.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124476.0
+Qualité : 0.26936919566824136
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-118.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124486.5
+Qualité : 0.26926212882521394
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1180.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124486.5
+Qualité : 0.26926212882521394
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1181.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124486.5
+Qualité : 0.26926212882521394
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1182.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124486.5
+Qualité : 0.26926212882521394
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1183.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124486.5
+Qualité : 0.26926212882521394
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1184.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124486.5
+Qualité : 0.26926212882521394
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1185.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124486.5
+Qualité : 0.26926212882521394
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1186.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124501.5
+Qualité : 0.2691092075195882
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1187.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124501.5
+Qualité : 0.2691092075195882
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1188.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124501.5
+Qualité : 0.2691092075195882
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1189.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124501.5
+Qualité : 0.2691092075195882
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-119.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124501.5
+Qualité : 0.2691092075195882
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1190.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124501.5
+Qualité : 0.2691092075195882
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1191.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124502.0
+Qualité : 0.26910411077733687
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1192.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124502.0
+Qualité : 0.26910411077733687
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1193.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124504.0
+Qualité : 0.2690837242176958
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1194.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124504.0
+Qualité : 0.2690837242176958
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1195.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124504.0
+Qualité : 0.2690837242176958
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1196.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124504.0
+Qualité : 0.2690837242176958
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1197.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124504.0
+Qualité : 0.2690837242176958
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1198.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124504.0
+Qualité : 0.2690837242176958
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1199.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124504.0
+Qualité : 0.2690837242176958
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-12.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124506.0
+Qualité : 0.269063338313013
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-120.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124506.0
+Qualité : 0.269063338313013
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1200.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124506.0
+Qualité : 0.269063338313013
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1201.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124510.5
+Qualité : 0.26901747242200447
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1202.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124510.5
+Qualité : 0.26901747242200447
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1203.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124510.5
+Qualité : 0.26901747242200447
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1204.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124517.0
+Qualité : 0.2689512275432271
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1205.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124523.0
+Qualité : 0.26889008456269115
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1206.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124523.0
+Qualité : 0.26889008456269115
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1207.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124523.0
+Qualité : 0.26889008456269115
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1208.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124524.5
+Qualité : 0.26887479973820416
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1209.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124524.5
+Qualité : 0.26887479973820416
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-121.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124524.5
+Qualité : 0.26887479973820416
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1210.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124546.0
+Qualité : 0.2686557577120101
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1211.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124546.0
+Qualité : 0.2686557577120101
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1212.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124549.0
+Qualité : 0.26862519972059196
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1213.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124549.0
+Qualité : 0.26862519972059196
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1214.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124549.0
+Qualité : 0.26862519972059196
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1215.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124549.0
+Qualité : 0.26862519972059196
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1216.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124549.0
+Qualité : 0.26862519972059196
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1217.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124549.0
+Qualité : 0.26862519972059196
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1218.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124549.0
+Qualité : 0.26862519972059196
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1219.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124549.0
+Qualité : 0.26862519972059196
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-122.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124552.5
+Qualité : 0.2685895505911162
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1220.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124552.5
+Qualité : 0.2685895505911162
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1221.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124554.0
+Qualité : 0.2685742730060856
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1222.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124555.0
+Qualité : 0.2685640881538276
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1223.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124555.0
+Qualité : 0.2685640881538276
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1224.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124562.0
+Qualité : 0.26849279876687904
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1225.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124562.0
+Qualité : 0.26849279876687904
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1226.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124566.0
+Qualité : 0.2684520655716649
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1227.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124566.0
+Qualité : 0.2684520655716649
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1228.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124566.0
+Qualité : 0.2684520655716649
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1229.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124566.0
+Qualité : 0.2684520655716649
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-123.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124570.0
+Qualité : 0.2684113349923738
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1230.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124570.0
+Qualité : 0.2684113349923738
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1231.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124570.0
+Qualité : 0.2684113349923738
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1232.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124570.0
+Qualité : 0.2684113349923738
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1233.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124570.0
+Qualité : 0.2684113349923738
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1234.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124573.0
+Qualité : 0.2683807887744536
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1235.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124573.0
+Qualité : 0.2683807887744536
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1236.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124573.0
+Qualité : 0.2683807887744536
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1237.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124574.0
+Qualité : 0.2683706070287539
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1238.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124574.0
+Qualité : 0.2683706070287539
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1239.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124574.0
+Qualité : 0.2683706070287539
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-124.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124574.0
+Qualité : 0.2683706070287539
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1240.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124574.0
+Qualité : 0.2683706070287539
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1241.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124574.0
+Qualité : 0.2683706070287539
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1242.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124575.5
+Qualité : 0.2683553347166978
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1243.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124580.5
+Qualité : 0.2683044296659589
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1244.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124580.5
+Qualité : 0.2683044296659589
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1245.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124589.0
+Qualité : 0.2682179004567016
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1246.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124589.0
+Qualité : 0.2682179004567016
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1247.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124589.0
+Qualité : 0.2682179004567016
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1248.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124589.0
+Qualité : 0.2682179004567016
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1249.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124589.0
+Qualité : 0.2682179004567016
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-125.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124589.0
+Qualité : 0.2682179004567016
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1250.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124589.5
+Qualité : 0.2682128108709001
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1251.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124589.5
+Qualité : 0.2682128108709001
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1252.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124589.5
+Qualité : 0.2682128108709001
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1253.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124589.5
+Qualité : 0.2682128108709001
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1254.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124592.0
+Qualité : 0.26818736355464234
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1255.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124594.5
+Qualité : 0.26816191725959015
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1256.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124594.5
+Qualité : 0.26816191725959015
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1257.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1258.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1259.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-126.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1260.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1261.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1262.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1263.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1264.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1265.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1266.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1267.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1268.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1269.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-127.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1270.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1271.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1272.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1273.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1274.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1275.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1276.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124597.5
+Qualité : 0.268131383053432
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1277.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124599.5
+Qualité : 0.268111027732856
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1278.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124599.5
+Qualité : 0.268111027732856
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1279.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124599.5
+Qualité : 0.268111027732856
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-128.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124599.5
+Qualité : 0.268111027732856
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1280.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124599.5
+Qualité : 0.268111027732856
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1281.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124599.5
+Qualité : 0.268111027732856
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1282.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124599.5
+Qualité : 0.268111027732856
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1283.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1284.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1285.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1286.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1287.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1288.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1289.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-129.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1290.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1291.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1292.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1293.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1294.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1295.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1296.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1297.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1298.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1299.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-13.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-130.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1300.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1301.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1302.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1303.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124602.0
+Qualité : 0.26808558450105124
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1304.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124604.0
+Qualité : 0.2680652306507014
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1305.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124604.0
+Qualité : 0.2680652306507014
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1306.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1307.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1308.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1309.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-131.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1310.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1311.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1312.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1313.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1314.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1315.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1316.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1317.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1318.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1319.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-132.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1320.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1321.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1322.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1323.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1324.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1325.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1326.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1327.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1328.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1329.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-133.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1330.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1331.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124609.5
+Qualité : 0.26800926093114885
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1332.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1333.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1334.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1335.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1336.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1337.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1338.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1339.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-134.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1340.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1341.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1342.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1343.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1344.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1345.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1346.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1347.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1348.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1349.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124613.5
+Qualité : 0.26796855878375947
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-135.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124614.5
+Qualité : 0.26795838365519264
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1350.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124630.0
+Qualité : 0.2678006900425258
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1351.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124630.0
+Qualité : 0.2678006900425258
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1352.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124630.0
+Qualité : 0.2678006900425258
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1353.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124630.0
+Qualité : 0.2678006900425258
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1354.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124630.0
+Qualité : 0.2678006900425258
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1355.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124630.0
+Qualité : 0.2678006900425258
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1356.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124630.0
+Qualité : 0.2678006900425258
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1357.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124630.0
+Qualité : 0.2678006900425258
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1358.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124637.5
+Qualité : 0.2677244007622104
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1359.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124637.5
+Qualité : 0.2677244007622104
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-136.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124637.5
+Qualité : 0.2677244007622104
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1360.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124637.5
+Qualité : 0.2677244007622104
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1361.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124637.5
+Qualité : 0.2677244007622104
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1362.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124637.5
+Qualité : 0.2677244007622104
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1363.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124637.5
+Qualité : 0.2677244007622104
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1364.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124637.5
+Qualité : 0.2677244007622104
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1365.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124637.5
+Qualité : 0.2677244007622104
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1366.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124638.0
+Qualité : 0.2677193151366357
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1367.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124638.0
+Qualité : 0.2677193151366357
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1368.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124638.0
+Qualité : 0.2677193151366357
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1369.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124638.0
+Qualité : 0.2677193151366357
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-137.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124638.0
+Qualité : 0.2677193151366357
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1370.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124638.0
+Qualité : 0.2677193151366357
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1371.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124639.5
+Qualité : 0.26770405850472767
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1372.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124639.5
+Qualité : 0.26770405850472767
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1373.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124639.5
+Qualité : 0.26770405850472767
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1374.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124639.5
+Qualité : 0.26770405850472767
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1375.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124639.5
+Qualité : 0.26770405850472767
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1376.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124639.5
+Qualité : 0.26770405850472767
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1377.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124639.5
+Qualité : 0.26770405850472767
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1378.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124639.5
+Qualité : 0.26770405850472767
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1379.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124639.5
+Qualité : 0.26770405850472767
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-138.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124639.5
+Qualité : 0.26770405850472767
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1380.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124641.5
+Qualité : 0.2676837169000694
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1381.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124641.5
+Qualité : 0.2676837169000694
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1382.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124641.5
+Qualité : 0.2676837169000694
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1383.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124641.5
+Qualité : 0.2676837169000694
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1384.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124641.5
+Qualité : 0.2676837169000694
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1385.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124645.5
+Qualité : 0.26764303564910086
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1386.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124645.5
+Qualité : 0.26764303564910086
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1387.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124645.5
+Qualité : 0.26764303564910086
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1388.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124645.5
+Qualité : 0.26764303564910086
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1389.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124652.5
+Qualité : 0.26757184974228365
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-139.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124652.5
+Qualité : 0.26757184974228365
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1390.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124652.5
+Qualité : 0.26757184974228365
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1391.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124652.5
+Qualité : 0.26757184974228365
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1392.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124652.5
+Qualité : 0.26757184974228365
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1393.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124652.5
+Qualité : 0.26757184974228365
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1394.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124652.5
+Qualité : 0.26757184974228365
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1395.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124652.5
+Qualité : 0.26757184974228365
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1396.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124652.5
+Qualité : 0.26757184974228365
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1397.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124654.5
+Qualité : 0.267551512380219
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1398.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1399.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-14.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-140.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1400.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1401.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1402.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1403.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1404.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1405.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1406.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1407.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1408.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1409.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-141.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1410.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1411.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1412.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1413.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1414.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1415.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1416.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1417.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1418.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1419.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-142.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1420.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1421.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124658.5
+Qualité : 0.26751083961382505
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1422.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124664.0
+Qualité : 0.26745491882179295
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1423.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124664.0
+Qualité : 0.26745491882179295
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1424.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124664.0
+Qualité : 0.26745491882179295
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1425.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124664.0
+Qualité : 0.26745491882179295
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1426.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124664.0
+Qualité : 0.26745491882179295
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1427.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124664.0
+Qualité : 0.26745491882179295
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1428.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124664.0
+Qualité : 0.26745491882179295
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1429.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124664.0
+Qualité : 0.26745491882179295
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-143.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124664.0
+Qualité : 0.26745491882179295
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1430.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124664.0
+Qualité : 0.26745491882179295
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1431.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124664.0
+Qualité : 0.26745491882179295
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1432.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124664.0
+Qualité : 0.26745491882179295
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1433.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124664.0
+Qualité : 0.26745491882179295
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1434.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124665.0
+Qualité : 0.26744475193518635
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1435.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124665.0
+Qualité : 0.26744475193518635
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1436.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1437.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1438.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1439.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-144.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1440.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1441.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1442.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1443.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1444.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1445.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1446.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1447.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1448.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1449.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-145.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1450.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1451.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1452.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1453.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1454.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1455.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124666.5
+Qualité : 0.2674295019110988
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1456.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1457.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1458.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1459.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-146.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1460.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1461.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1462.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1463.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1464.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1465.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1466.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1467.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1468.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1469.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-147.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1470.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1471.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1472.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1473.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1474.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1475.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1476.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1477.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1478.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1479.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124667.0
+Qualité : 0.2674244186512871
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-148.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124669.5
+Qualité : 0.26739900296383645
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1480.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124669.5
+Qualité : 0.26739900296383645
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1481.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1482.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1483.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1484.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1485.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1486.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1487.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1488.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1489.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-149.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1490.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1491.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1492.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1493.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1494.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1495.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1496.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1497.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1498.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-1499.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
+Pour le fichier /Users/veyrack/eclipse-workspace/Algav/varoumas_samples/test-15.points
+Aire du rectangle = 158006.0
+Aire de l'enveloppe convexe = 124676.5
+Qualité : 0.2673278444614662
