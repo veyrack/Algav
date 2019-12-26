@@ -13,11 +13,12 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-import algorithms.DefaultTeam;
+import algorithms.CircMinimum;
+import algorithms.EnveloppeConvexe;
+import supportGUI.Circle;
 import tools.Geometry;
-import tools.Rectangle;
 
-public class Test {
+public class TestCirc {
 
 	public static void search(final String pattern, final File folder, List<String> result) {
         for (final File f : folder.listFiles()) {
@@ -35,7 +36,7 @@ public class Test {
     }
 	
 	public static void main(String[] args) {
-		//Test des rect minimum ainsi que qualité
+		//Test des cercles minimum ainsi que qualité
 		List<Point> points=new ArrayList<>();
 		final File folder = new File("varoumas_samples");
 		
@@ -55,16 +56,16 @@ public class Test {
     				points.add(new Point(Integer.parseInt(l.get(0)),Integer.parseInt(l.get(1))));
     				
     			}
-    			Rectangle rec = DefaultTeam.toussaint((ArrayList<Point>)points);
+    			double conv_aire = Geometry.convexeAire(EnveloppeConvexe.enveloppeConvexeJarvis((ArrayList<Point>) points));
+    			Circle circ = CircMinimum.calculCercleMin((ArrayList<Point>)points);
     			
-    			double rec_aire = rec.aire();
+    			double circ_aire = Geometry.circArea(circ);
     			StringBuilder res = new StringBuilder();
-    			res.append("Pour le fichier "+s+"\nAire du rectangle = "+rec_aire+"\n");
-    			double conv_aire = Geometry.convexeAire(DefaultTeam.enveloppeConvexeJarvis((ArrayList<Point>) points));
+    			res.append("Pour le fichier "+s+"\nAire du cercle = "+circ_aire+"\n");
     			res.append("Aire de l'enveloppe convexe = "+conv_aire+"\n");
-    			res.append("Qualité : "+(rec_aire/conv_aire-1)+"\n");//marge d'erreur du rect par rapport a convexe
+    			res.append("Qualité : "+(circ_aire/conv_aire-1)+"\n");//marge d'erreur du rect par rapport a convexe
     			
-    			BufferedWriter writer = new BufferedWriter(new FileWriter("varoumas_samples/resultat.txt",true));
+    			BufferedWriter writer = new BufferedWriter(new FileWriter("varoumas_samples/resultatCercle.txt",true));
     		    writer.write(res.toString());
     		     
     		    writer.close();
@@ -76,8 +77,5 @@ public class Test {
     			e.printStackTrace();
     		} 
         }
-        
-        
 	}
-
 }

@@ -59,13 +59,14 @@ public class DefaultTeam {
 
   // calculCercleMin: ArrayList<Point> --> Circle
   //   renvoie un cercle couvrant tout point de la liste, de rayon minimum.
-  public Circle calculCercleMin(ArrayList<Point> points) {
+  public static Circle calculCercleMin(ArrayList<Point> points) {
 	  
-	  points.removeAll(points);
+	  /*points.removeAll(points);
 	  points.add(new Point(500,500));
 	  points.add(new Point(600,400));
 	  points.add(new Point(400,600));
 	  points.add(new Point(300,350));
+	  points.add(new Point(600,600));*/
 	  
 	  
 	  //Etape 1, on recup un point dummy
@@ -93,7 +94,7 @@ public class DefaultTeam {
 			  q = temp;
 		  }
 	  }
-	  //System.out.println(q.toString());
+//	  System.out.println(q.toString());
 
 	  
 	  Point c2 = null;
@@ -104,6 +105,7 @@ public class DefaultTeam {
 	  double b = (p.y + q.y) / 2;
 	  // C, le centre du segment [PQ]
 	  Point c = new Point((int)a, (int)b);
+//	  System.out.println(c.toString());
 	  // Rayon du cercle de centre c, passant par P et Q (distance CP)
 	  cp = Point.distance(a, b, p.x, p.y);
 	  //System.out.println("cp = "+Point.distance(a, b, p.x, p.y));
@@ -143,14 +145,16 @@ public class DefaultTeam {
 	  double cc2 = sc - sc2;
 	  alpha = sc2 / sc;
 	  beta = cc2 / sc;
-	  /*System.out.println("alpha = "+alpha);
-	  System.out.println("a = "+a);
-	  System.out.println("beta = "+beta);
-	  System.out.println("s.x = "+s.x);*/
+//	  System.out.println("alpha = "+alpha);
+//	  System.out.println("a = "+a);
+//	  System.out.println("beta = "+beta);
+//	  System.out.println("s.x = "+s.x);
 	  double a2 = alpha * a + beta * s.x;
 	  double b2 = alpha * b + beta * s.y;
+//	  System.out.println(a2);
+//	  System.out.println(b2);
 	  c2 = new Point((int)a2,(int) b2);
-	  //sSystem.out.println(c2.toString());
+//	  System.out.println(c2.toString());
 	  ArrayList<Point> l1 = new ArrayList<>();
 	  for (Point temp : l) {
 			if (Point.distance(a2, b2, temp.x, temp.y) > sc2) {
@@ -170,10 +174,10 @@ public class DefaultTeam {
     return new Circle(c2,(int)cp);
   }
   
+  
   public static ArrayList<Point> enveloppeConvexe(ArrayList<Point> points){
 /*	  
 	  points.removeAll(points);
-	  
 	  points.add(new Point(350,300));
 	  points.add(new Point(350,310));
 	  points.add(new Point(300,150));
@@ -201,7 +205,6 @@ public class DefaultTeam {
 	  res.add(rec.b);
 	  res.add(rec.c);
 	  res.add(rec.d);
-	  
 	  //System.out.println(rec.toString());
 	  return res;
   }

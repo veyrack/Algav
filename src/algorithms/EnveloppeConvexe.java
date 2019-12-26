@@ -3,30 +3,123 @@ package algorithms;
 import java.awt.Point;
 import java.util.ArrayList;
 
-/**
- * Classe comprenant les méthodes nécessaires pour l'implantation de
- * l'algorithme de Graham pour trouver l'enveloppe convexe d'un nuage de points.
- * 
- * @author Maxime Bonnet
- * 
- */
+import tools.Geometry;
+
 public class EnveloppeConvexe {
 
-	/**
-	 * L'abscisse maximale possible pour le jeu de test (utile pour le tri
-	 * pixel). Sa taille n'a pas d'influence sur le temps de calcul (juste sur
-	 * la taille des tableaux alloués)
-	 */
+	
+	// enveloppeConvexe: ArrayList<Point> --> ArrayList<Point>
+	  //   renvoie l'enveloppe convexe de la liste.
+	  public static ArrayList<Point> enveloppeConvexeJarvis(ArrayList<Point> points){
+		  ArrayList<Point> enveloppe = new ArrayList<>();
+		  points=filterPointsAlignes(points);
+		  Point p=points.get(0);
+		  for(Point tmp:points) {
+			  if (tmp.x<p.x)
+				  p=tmp;
+		  }
+		  
+		  Point first = p;
+		  
+		  do{
+			  enveloppe.add(p);
+			  Point q = null;
+			  for(Point sq : points){
+				  if(!p.equals(sq))
+				  {
+					  q = sq;
+					  break;
+				  }
+			  }
+			  if(q == null)
+				  return enveloppe;
+			  for(Point sq : points){
+				  double prod = Geometry.prodVec(p, q, sq);
+				  if(prod > 0)
+					  continue;
+				  else if(prod == 0){
+					  if(Geometry.distanceSquare(p, sq) > Geometry.distanceSquare(p, q))
+						  q = sq;
+				  }
+				  else
+					  q = sq;
+			  }
+			  p = q;
+		  } while(!p.equals(first));
+		  
+		  //System.out.println("[Jarvis] OUT : " + enveloppe.size());
+		  return enveloppe;
+	  }
+	  
+	  public static ArrayList<Point> filterPointsAlignes(ArrayList<Point> points){
+		  //System.out.println("filtrerPointsAlignes");
+		  ArrayList<Point> tmp = new ArrayList<Point>();
+		  
+		  for(int i  = 0; i < points.size(); i++){
+			  Point p = points.get(i);
+			  tmp.clear();
+			  for(int j  = 0; j < points.size(); j++){
+				  Point q = points.get(j);
+				  if(p.getX() == q.getX()) {
+					  tmp.add(q);
+				  }
+			  }
+			  if(tmp.size()<=2)
+				  continue;
+			  Point maxY=tmp.get(0), minY=tmp.get(0);
+			  for(int j  = 0; j < tmp.size(); j++) {
+				  Point t = tmp.get(j);
+				  if(t.getY() > maxY.getY()) {
+					  maxY = t;
+				  }
+				  if(t.getY() < minY.getY()) {
+					  minY = t;
+				  }
+			  }
+			  for(int j  = 0; j < tmp.size(); j++) {
+				  Point t = tmp.get(j);
+				  if(t.y <maxY.y && t.y>minY.y) {
+					  points.remove(t);
+				  }
+			  }
+		  }
+		  	 
+		  for(int i  = 0; i < points.size(); i++){
+			  Point p = points.get(i);
+			  tmp.clear();
+			  for(int j  = 0; j < points.size(); j++){
+				  Point q = points.get(j);
+				  if(p.getY() == q.getY()) {
+					  tmp.add(q);
+				  }
+			  }
+			  if(tmp.size()<=2)
+				  continue;
+			  Point maxX=tmp.get(0), minX=tmp.get(0);
+			  for(int j = 0; j < tmp.size(); j++) {
+				  Point t = tmp.get(j);
+				  if(t.getX() > maxX.getX()) {
+					  maxX = t;
+				  }
+				  if(t.getY() < minX.getY()) {
+					  minX = t;
+				  }
+			  }
+			  for(int j  = 0; j < tmp.size(); j++) {
+				  Point t = tmp.get(j);
+				  if(t.x < maxX.x && t.x > minX.x) {
+					  points.remove(t);
+				  }
+			  }
+		  }
+		  
+		  //System.out.println("[filtre] len Point : " + points.size());
+		  return points ;
+		  
+	  }
+	
 	private final static int XMAX = 2000;
 
-	/**
-	 * Retourne l'enveloppe convexe associée au nuage de points passé en
-	 * paramètre.
-	 * 
-	 * @param points
-	 *            Le nuage de points
-	 * @return L'enveloppe convexe
-	 */
 	public static ArrayList<Point.Double> graham(ArrayList<Point.Double> points) {
 		// Copie du nuage de points, pour préserver la liste originale
 		ArrayList<Point.Double> enveloppe = (ArrayList<Point.Double>) points.clone();

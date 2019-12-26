@@ -3,6 +3,8 @@ package tools;
 import java.awt.Point;
 import java.util.ArrayList;
 
+import supportGUI.Circle;
+
 
 public class Geometry {
 	
@@ -47,5 +49,9 @@ public class Geometry {
 		  } while(i!=0);
 		  return 0.5*(g-d);
 		  
+	  }
+	  
+	  public static double circArea(Circle c) {
+		  return Math.PI*c.getRadius()*c.getRadius();
 	  }
 }
