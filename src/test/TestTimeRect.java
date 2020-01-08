@@ -35,7 +35,7 @@ public class TestTimeRect {
 	public static void main(String[] args) {
 		//Test des rect minimum ainsi que qualité
 		List<Point> points=new ArrayList<>();
-		final File folder = new File("my_samples");
+		final File folder = new File("/media/3520096/2DDE-C4DA/my_samples");
 		
         List<String> result = new ArrayList<>();
         
@@ -57,6 +57,8 @@ public class TestTimeRect {
     			long before = System.currentTimeMillis();
     			RectMinimum.rectMini((ArrayList<Point>)points);
     			long after = System.currentTimeMillis();
+    			points.clear();
+    			System.gc();
     			StringBuilder res = new StringBuilder();
     			res.append("Pour le fichier "+s+"\n"+(after-before)+"\n");
     			BufferedWriter writer = new BufferedWriter(new FileWriter("my_samples/resultatTimeRect.txt",true));

@@ -155,7 +155,7 @@ public class RectMinimum {
 	  }
 
 	public static Rectangle toussaint (ArrayList<Point> points){
-		  points=enveloppeConvexeJarvis(points);//on recupere l'enveloppe convexe
+		  //points=enveloppeConvexeJarvis(points);//on recupere l'enveloppe convexe
 		  //Si il n'y a pas 4 points -> impossible
 		  if (points.size()<4)
 			  return null;
