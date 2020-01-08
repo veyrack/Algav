@@ -13,8 +13,8 @@ public class GenerateTest {
 		
 		StringBuilder res = new StringBuilder();
 		for(int i = 0; i<size;i++) {
-			int rand = 100 + (int)(Math.random() * 1000);
-			int rand2 = 100 + (int)(Math.random() * 1000);
+			int rand = 100 + (int)(Math.random() * size);
+			int rand2 = 100 + (int)(Math.random() * size);
 			res.append(rand+" "+rand2+"\n");
 		}
 	    writer.write(res.toString());

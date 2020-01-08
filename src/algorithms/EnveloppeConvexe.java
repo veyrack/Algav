@@ -118,7 +118,7 @@ public class EnveloppeConvexe {
 		  
 	  }
 	
-	private final static int XMAX = 2000;
+	private final static int XMAX = 500000;
 
 	public static ArrayList<Point.Double> graham(ArrayList<Point.Double> points) {
 		// Copie du nuage de points, pour préserver la liste originale
@@ -259,7 +259,7 @@ public class EnveloppeConvexe {
 		if (resultat.get(resultat.size() - 1).equals(resultat.get(0)))
 			// On supprime le premier point (doublon)
 			resultat.remove(0);
-
+		
 		return resultat;
 
 	}

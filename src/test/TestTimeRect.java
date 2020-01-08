@@ -42,6 +42,7 @@ public class TestTimeRect {
         search(".*\\.points", folder, result);
         Collections.sort(result);
         for (String s : result) {
+        	System.out.println("For the file "+s);
         	File file = new File(s); 
     		BufferedReader br;
     		try {
@@ -54,7 +55,7 @@ public class TestTimeRect {
     				
     			}
     			long before = System.currentTimeMillis();
-    			RectMinimum.toussaint((ArrayList<Point>)points);
+    			RectMinimum.rectMini((ArrayList<Point>)points);
     			long after = System.currentTimeMillis();
     			StringBuilder res = new StringBuilder();
     			res.append("Pour le fichier "+s+"\n"+(after-before)+"\n");
