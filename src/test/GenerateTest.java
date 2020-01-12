@@ -5,7 +5,9 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class GenerateTest {
-
+	/*
+	 * Genere un base de test de 1664 fichier dont les points vont de 256 a 256*1664
+	 */
 	public static void generateFile(int size) {
 		BufferedWriter writer;
 		try {

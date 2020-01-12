@@ -8,12 +8,17 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
+import algorithms.CircMinimum;
 import algorithms.RectMinimum;
+import supportGUI.Circle;
+import tools.Geometry;
+import tools.Rectangle;
 
 public class TestTimeRect {
 
@@ -31,7 +36,10 @@ public class TestTimeRect {
 
         }
     }
-	
+	/*
+	 * Lis dans un fichier
+	 */
+	/*
 	public static void main(String[] args) {
 		//Test des rect minimum ainsi que qualité
 		List<Point> points=new ArrayList<>();
@@ -75,6 +83,38 @@ public class TestTimeRect {
         }
         
         
+	}*/
+	
+	/*
+	 * Genere les points directement
+	 */
+	public static void main(String[] args) {
+		ArrayList<Point> points= new ArrayList<>();
+		long debut;
+		try {
+			PrintWriter writer = new PrintWriter(new File("my_samples/result_temps.csv"));
+			writer.println("toussaint;ritter");
+			for(int cpt = 150000 ; cpt<= 155000 ;cpt+=256) {
+					
+					points = Geometry.generateList(points,cpt);
+					
+					System.out.println("For cpt = "+cpt);
+					System.out.println(points.size());
+					long debut_circ=System.currentTimeMillis();
+					//System.out.println(debut_circ);
+					CircMinimum.calculCercleMin((ArrayList<Point> )points.clone());
+					//System.out.println(System.currentTimeMillis());
+					writer.print(cpt+";"+(System.currentTimeMillis()-debut_circ)+";");
+					System.out.println(points.size());
+					debut=System.currentTimeMillis();
+					RectMinimum.rectMini((ArrayList<Point> )points.clone());
+					writer.print(""+(System.currentTimeMillis()-debut)+"\n");	
+			}
+			writer.close();
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+        
+        
 	}
-
 }

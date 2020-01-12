@@ -120,15 +120,15 @@ public class EnveloppeConvexe {
 	
 	private final static int XMAX = 500000;
 
-	public static ArrayList<Point.Double> graham(ArrayList<Point.Double> points) {
+	public static ArrayList<Point> graham(ArrayList<Point> points) {
 		// Copie du nuage de points, pour préserver la liste originale
-		ArrayList<Point.Double> enveloppe = (ArrayList<Point.Double>) points.clone();
+		ArrayList<Point> enveloppe = (ArrayList<Point>) points.clone();
 		// Parcours de la liste.
 		for (int i = 0; i < enveloppe.size(); i++) {
 			// Trois points du nuage de points.
-			Point.Double p = enveloppe.get(i);
-			Point.Double q = enveloppe.get((i + 1) % enveloppe.size());
-			Point.Double r = enveloppe.get((i + 2) % enveloppe.size());
+			Point p = enveloppe.get(i);
+			Point q = enveloppe.get((i + 1) % enveloppe.size());
+			Point r = enveloppe.get((i + 2) % enveloppe.size());
 			// Si l'angle formé par les trois points (angle des vecteurs
 			// (PQ,QR)) ne tourne pas dans le bon sens
 			if (!clockwise(p, q, r)) {
@@ -150,6 +150,8 @@ public class EnveloppeConvexe {
 		// l'enveloppe ont été enlevés.
 		return enveloppe;
 	}
+	
+	
 
 	/**
 	 * Vérifie si l'angle formé par les vecteurs PQ et QR est dans le sens
@@ -164,8 +166,8 @@ public class EnveloppeConvexe {
 	 * @return Vrai si l'angle formé par les vecteurs PQ et QR est dans le sens
 	 *         horaire, Faux sinon
 	 */
-	public static boolean clockwise(Point.Double p, Point.Double q,
-			Point.Double r) {
+	public static boolean clockwise(Point p, Point q,
+			Point r) {
 		double pqX = q.getX() - p.getX();
 		double pqY = q.getY() - p.getY();
 		double qrX = r.getX() - p.getX();
@@ -204,14 +206,14 @@ public class EnveloppeConvexe {
 	 *            La liste de points à traiter
 	 * @return La liste de points traitée.
 	 */
-	public static ArrayList<Point.Double> pixelSort(ArrayList<Point.Double> set) {
+	public static ArrayList<Point> pixelSort(ArrayList<Point> set) {
 		// Tableaux contenant une case par abscisse entière.
 		// Tableau des points d'ordonnée maximum
-		Point.Double[] tabMax = new Point.Double[XMAX];
+		Point[] tabMax = new Point[XMAX];
 		// Tableau des points d'ordonnée minimum
-		Point.Double[] tabMin = new Point.Double[XMAX];
+		Point[] tabMin = new Point[XMAX];
 		// On parcourt le nuage de points.
-		for (Point.Double p : set) {
+		for (Point p : set) {
 			// Si on n'a pas encore stocké de point pour cette abscisse, ou si
 			// le point stocké à une ordonnée inférieure
 			if (tabMax[(int) p.getX()] == null
@@ -229,9 +231,9 @@ public class EnveloppeConvexe {
 
 		}
 		// Liste que l'on va renvoyer
-		ArrayList<Point.Double> resultat = new ArrayList<>();
+		ArrayList<Point> resultat = new ArrayList<>();
 		// On parcourt le tableau des ordonnées maximum
-		for (Point.Double p : tabMax) {
+		for (Point p : tabMax) {
 			// Si la case du tableau n'est pas vide
 			if (p != null) {
 				// On ajoute le point à la liste

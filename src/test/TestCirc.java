@@ -56,19 +56,23 @@ public class TestCirc {
     				points.add(new Point(Integer.parseInt(l.get(0)),Integer.parseInt(l.get(1))));
     				
     			}
-    			double conv_aire = Geometry.convexeAire(EnveloppeConvexe.enveloppeConvexeJarvis((ArrayList<Point>) points));
     			Circle circ = CircMinimum.calculCercleMin((ArrayList<Point>)points);
+
+    			double conv_aire = Geometry.convexeAire(EnveloppeConvexe.enveloppeConvexeJarvis((ArrayList<Point>) points));
+
+
     			
     			double circ_aire = Geometry.circArea(circ);
     			StringBuilder res = new StringBuilder();
-    			res.append("Pour le fichier "+s+"\nAire du cercle = "+circ_aire+"\n");
-    			res.append("Aire de l'enveloppe convexe = "+conv_aire+"\n");
-    			res.append("Qualité : "+(circ_aire/conv_aire-1)+"\n");//marge d'erreur du rect par rapport a convexe
+    			//res.append("Pour le fichier "+s+"\nAire du cercle = "+circ_aire+"\n");
+    			//res.append("Aire de l'enveloppe convexe = "+conv_aire+"\n");
+    			res.append((circ_aire/conv_aire-1)+"\n");//marge d'erreur du rect par rapport a convexe
     			
     			BufferedWriter writer = new BufferedWriter(new FileWriter("varoumas_samples/resultatCercle.txt",true));
     		    writer.write(res.toString());
     		     
     		    writer.close();
+    		    points.clear();
     		} 
     		
     		catch (FileNotFoundException e) {

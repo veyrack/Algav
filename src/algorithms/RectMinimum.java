@@ -11,29 +11,10 @@ import tools.Vector;
 public class RectMinimum {
 	
 	public static ArrayList<Point> rectMini(ArrayList<Point> points){
-		/*	  
-			  points.removeAll(points);
-			  points.add(new Point(350,300));
-			  points.add(new Point(350,310));
-			  points.add(new Point(300,150));
-			  points.add(new Point(540,360));
-			  points.add(new Point(600,400));
-			  points.add(new Point(260,350));
-			  points.add(new Point(480,500));
-			  points.add(new Point(350,650));
-			  points.add(new Point(290,100));
-		*/
-			  
-			  ArrayList<Point.Double> l = new ArrayList<Point.Double>();
-			  for(Point p:points) {
-				  l.add(new Point.Double(p.x,p.y));
-			  }
-			  l=EnveloppeConvexe.pixelSort(l);
-			  l=EnveloppeConvexe.graham(l);
-			  points.removeAll(points);
-			  for(Point.Double p:l) {
-				  points.add(new Point((int)p.x,(int)p.y));
-			  }
+	  
+			  points=EnveloppeConvexe.pixelSort(points);
+			  System.out.println("computing");
+			  points=EnveloppeConvexe.graham(points);
 			  Rectangle rec = toussaint(points);
 			  ArrayList<Point> res = new ArrayList<Point>();
 			  res.add(rec.a);
@@ -44,7 +25,7 @@ public class RectMinimum {
 			  return res;
 		  }
 	
-	public static ArrayList<Point> filterPointsAlignes(ArrayList<Point> points){
+	/*public static ArrayList<Point> filterPointsAlignes(ArrayList<Point> points){
 		  //System.out.println("filtrerPointsAlignes");
 		  ArrayList<Point> tmp = new ArrayList<Point>();
 		  
@@ -109,8 +90,8 @@ public class RectMinimum {
 		  //System.out.println("[filtre] len Point : " + points.size());
 		  return points ;
 		  
-	  }
-	
+	  }*/
+	/*
 	// enveloppeConvexe: ArrayList<Point> --> ArrayList<Point>
 	  //   renvoie l'enveloppe convexe de la liste.
 	  public static ArrayList<Point> enveloppeConvexeJarvis(ArrayList<Point> points){
@@ -152,7 +133,7 @@ public class RectMinimum {
 		  
 		  //System.out.println("[Jarvis] OUT : " + enveloppe.size());
 		  return enveloppe;
-	  }
+	  }*/
 
 	public static Rectangle toussaint (ArrayList<Point> points){
 		  //points=enveloppeConvexeJarvis(points);//on recupere l'enveloppe convexe

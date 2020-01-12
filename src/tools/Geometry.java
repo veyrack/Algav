@@ -54,4 +54,16 @@ public class Geometry {
 	  public static double circArea(Circle c) {
 		  return Math.PI*c.getRadius()*c.getRadius();
 	  }
+	  
+	  public static ArrayList<Point> generateList (ArrayList<Point> list,int size){
+		  if (list.size()>=size) return list;
+		  ArrayList<Point> res = new ArrayList<>();
+		  res.addAll(list);
+		  for(int i = list.size(); i<size;i++) {
+				int rand = 100 + (int)(Math.random() * size);
+				int rand2 = 100 + (int)(Math.random() * size);
+				res.add(new Point(rand,rand2));
+			}
+		  return res;
+	  }
 }

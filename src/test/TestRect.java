@@ -55,19 +55,25 @@ public class TestRect {
     				points.add(new Point(Integer.parseInt(l.get(0)),Integer.parseInt(l.get(1))));
     				
     			}
-    			Rectangle rec = RectMinimum.toussaint((ArrayList<Point>)points);
     			
-    			double rec_aire = rec.aire();
+    			
     			StringBuilder res = new StringBuilder();
-    			res.append("Pour le fichier "+s+"\nAire du rectangle = "+rec_aire+"\n");
-    			double conv_aire = Geometry.convexeAire(EnveloppeConvexe.enveloppeConvexeJarvis((ArrayList<Point>) points));
-    			res.append("Aire de l'enveloppe convexe = "+conv_aire+"\n");
-    			res.append("Qualité : "+(rec_aire/conv_aire-1)+"\n");//marge d'erreur du rect par rapport a convexe
+    			//res.append("Pour le fichier "+s+"\nAire du rectangle = "+rec_aire+"\n");
+    			points = EnveloppeConvexe.enveloppeConvexeJarvis((ArrayList<Point>) points);
+    			double conv_aire = Geometry.convexeAire((ArrayList<Point>)points);
+    			System.out.println(conv_aire);
+    			Rectangle rec = RectMinimum.toussaint((ArrayList<Point>)points);
+
+    			double rec_aire = rec.aire();
+    			System.out.println(rec_aire);
+    			//res.append("Aire de l'enveloppe convexe = "+conv_aire+"\n");
+    			res.append((rec_aire/conv_aire-1)+"\n");//marge d'erreur du rect par rapport a convexe
     			
     			BufferedWriter writer = new BufferedWriter(new FileWriter("varoumas_samples/resultatRect.txt",true));
     		    writer.write(res.toString());
     		     
     		    writer.close();
+    		    points.clear();
     		} 
     		
     		catch (FileNotFoundException e) {

@@ -2,8 +2,6 @@ package algorithms;
 
 import java.awt.Point;
 import java.util.ArrayList;
-import java.util.Random;
-
 import supportGUI.Circle;
 
 import tools.Geometry;
@@ -189,16 +187,11 @@ public class DefaultTeam {
 	  points.add(new Point(290,100));
 */
 	  
-	  ArrayList<Point.Double> l = new ArrayList<Point.Double>();
-	  for(Point p:points) {
-		  l.add(new Point.Double(p.x,p.y));
-	  }
-	  l=EnveloppeConvexe.pixelSort(l);
-	  l=EnveloppeConvexe.graham(l);
+	  
+	  points=EnveloppeConvexe.pixelSort(points);
+	  points=EnveloppeConvexe.graham(points);
 	  points.removeAll(points);
-	  for(Point.Double p:l) {
-		  points.add(new Point((int)p.x,(int)p.y));
-	  }
+	  
 	  Rectangle rec = toussaint(points);
 	  ArrayList<Point> res = new ArrayList<Point>();
 	  res.add(rec.a);
@@ -497,16 +490,8 @@ public class DefaultTeam {
 			  else finished=true;
 		  }
 		  else 
-			  finished=true; 
-		  
-		  
-	    
-	  }
-	  
+			  finished=true;  
+	  }  
 	  return res;
   }
-  
- 
-  
-  
 }
