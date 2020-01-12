@@ -7,16 +7,13 @@ import supportGUI.Circle;
 
 public class CircMinimum {
 
+	/**
+	 * Prend une liste de points et renvoi le cercle couvrant minimum de ces points
+	 * @param points
+	 * @return le cercle minimum
+	 */
 	public static Circle calculCercleMin(ArrayList<Point> points) {
-		  
-		  /*points.removeAll(points);
-		  points.add(new Point(500,500));
-		  points.add(new Point(600,400));
-		  points.add(new Point(400,600));
-		  points.add(new Point(300,350));
-		  points.add(new Point(600,600));*/
-		  
-		  
+
 		  //Etape 1, on recup un point dummy
 		  //Random random = new Random();
 		  Point dummy = points.get(0);
@@ -31,7 +28,6 @@ public class CircMinimum {
 				  p = temp;
 			  }
 		  }
-		  //System.out.println(p.toString());
 		  
 		  //Etape 3, on trouve le point le plus eloigne de P
 		  Point q = null;
@@ -42,13 +38,11 @@ public class CircMinimum {
 				  q = temp;
 			  }
 		  }
-//		  System.out.println(q.toString());
-
 		  
 		  Point c2 = null;
 		  double cp = 0;
 		  
-		  // Coordonnées du centre du segment [PQ]
+		  // Coordonnees du centre du segment [PQ]
 		  double a = (p.x + q.x) / 2;
 		  double b = (p.y + q.y) / 2;
 		  // C, le centre du segment [PQ]
@@ -69,7 +63,7 @@ public class CircMinimum {
 		  //System.out.println(l.toString());
 		  //si l est vide alors c'est bon
 		  if (l.isEmpty()) 
-			  // On renvoie le cercle centré en C, et de rayon CP
+			  // On renvoie le cercle centre en C, et de rayon CP
 			  return new Circle(c, (int)cp);
 		  
 		  Point s = null;
@@ -87,20 +81,13 @@ public class CircMinimum {
 		  // T est sur le cercle,
 		  double st = sc + cp;
 		  double sc2 = st / 2;
-		  /*System.out.println("sc2 = "+sc2);
-		  System.out.println("sc = "+sc);
-		  */
+
 		  double cc2 = sc - sc2;
 		  alpha = sc2 / sc;
 		  beta = cc2 / sc;
-//		  System.out.println("alpha = "+alpha);
-//		  System.out.println("a = "+a);
-//		  System.out.println("beta = "+beta);
-//		  System.out.println("s.x = "+s.x);
+
 		  double a2 = alpha * a + beta * s.x;
 		  double b2 = alpha * b + beta * s.y;
-//		  System.out.println(a2);
-//		  System.out.println(b2);
 		  c2 = new Point((int)a2,(int) b2);
 //		  System.out.println(c2.toString());
 		  ArrayList<Point> l1 = new ArrayList<>();

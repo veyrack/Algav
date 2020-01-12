@@ -37,13 +37,12 @@ public class TestTimeRect {
         }
     }
 	/*
-	 * Lis dans un fichier
+	 * Utilise les fichiers deja crees
 	 */
-	/*
 	public static void main(String[] args) {
 		//Test des rect minimum ainsi que qualité
 		List<Point> points=new ArrayList<>();
-		final File folder = new File("/media/3520096/2DDE-C4DA/my_samples");
+		final File folder = new File("resultat");
 		
         List<String> result = new ArrayList<>();
         
@@ -69,7 +68,7 @@ public class TestTimeRect {
     			System.gc();
     			StringBuilder res = new StringBuilder();
     			res.append("Pour le fichier "+s+"\n"+(after-before)+"\n");
-    			BufferedWriter writer = new BufferedWriter(new FileWriter("my_samples/resultatTimeRect.txt",true));
+    			BufferedWriter writer = new BufferedWriter(new FileWriter("resultat/resultatTimeRect.csv",true));
     		    writer.write(res.toString());
     		     
     		    writer.close();
@@ -83,38 +82,6 @@ public class TestTimeRect {
         }
         
         
-	}*/
-	
-	/*
-	 * Genere les points directement
-	 */
-	public static void main(String[] args) {
-		ArrayList<Point> points= new ArrayList<>();
-		long debut;
-		try {
-			PrintWriter writer = new PrintWriter(new File("my_samples/result_temps.csv"));
-			writer.println("toussaint;ritter");
-			for(int cpt = 150000 ; cpt<= 155000 ;cpt+=256) {
-					
-					points = Geometry.generateList(points,cpt);
-					
-					System.out.println("For cpt = "+cpt);
-					System.out.println(points.size());
-					long debut_circ=System.currentTimeMillis();
-					//System.out.println(debut_circ);
-					CircMinimum.calculCercleMin((ArrayList<Point> )points.clone());
-					//System.out.println(System.currentTimeMillis());
-					writer.print(cpt+";"+(System.currentTimeMillis()-debut_circ)+";");
-					System.out.println(points.size());
-					debut=System.currentTimeMillis();
-					RectMinimum.rectMini((ArrayList<Point> )points.clone());
-					writer.print(""+(System.currentTimeMillis()-debut)+"\n");	
-			}
-			writer.close();
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		}
-        
-        
 	}
+	
 }

@@ -38,7 +38,7 @@ public class TestCirc {
 	public static void main(String[] args) {
 		//Test des cercles minimum ainsi que qualité
 		List<Point> points=new ArrayList<>();
-		final File folder = new File("varoumas_samples");
+		final File folder = new File("resultat");
 		
         List<String> result = new ArrayList<>();
         
@@ -68,7 +68,7 @@ public class TestCirc {
     			//res.append("Aire de l'enveloppe convexe = "+conv_aire+"\n");
     			res.append((circ_aire/conv_aire-1)+"\n");//marge d'erreur du rect par rapport a convexe
     			
-    			BufferedWriter writer = new BufferedWriter(new FileWriter("varoumas_samples/resultatCercle.txt",true));
+    			BufferedWriter writer = new BufferedWriter(new FileWriter("resultat/resultatCercle.csv",true));
     		    writer.write(res.toString());
     		     
     		    writer.close();

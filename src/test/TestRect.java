@@ -37,7 +37,7 @@ public class TestRect {
 	public static void main(String[] args) {
 		//Test des rect minimum ainsi que qualité
 		List<Point> points=new ArrayList<>();
-		final File folder = new File("varoumas_samples");
+		final File folder = new File("resultat");
 		
         List<String> result = new ArrayList<>();
         
@@ -69,7 +69,7 @@ public class TestRect {
     			//res.append("Aire de l'enveloppe convexe = "+conv_aire+"\n");
     			res.append((rec_aire/conv_aire-1)+"\n");//marge d'erreur du rect par rapport a convexe
     			
-    			BufferedWriter writer = new BufferedWriter(new FileWriter("varoumas_samples/resultatRect.txt",true));
+    			BufferedWriter writer = new BufferedWriter(new FileWriter("resultat/resultatRect.csv",true));
     		    writer.write(res.toString());
     		     
     		    writer.close();

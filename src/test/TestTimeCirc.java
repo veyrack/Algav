@@ -31,11 +31,11 @@ public class TestTimeCirc {
 
         }
     }
-	
+	//En utilisant la base de donnee generee au prealable
 	public static void main(String[] args) {
 		//Test des cercles minimum ainsi que qualité
 		List<Point> points=new ArrayList<>();
-		final File folder = new File("my_samples");
+		final File folder = new File("resultat");
 		
         List<String> result = new ArrayList<>();
         
@@ -59,7 +59,7 @@ public class TestTimeCirc {
     			StringBuilder res = new StringBuilder();
     			res.append("Pour le fichier "+s+"\n"+(after-before)+"\n");
     			
-    			BufferedWriter writer = new BufferedWriter(new FileWriter("my_samples/resultatTimeCercle.txt",true));
+    			BufferedWriter writer = new BufferedWriter(new FileWriter("resultat/resultatTimeCercle.csv",true));
     		    writer.write(res.toString());
     		     
     		    writer.close();
